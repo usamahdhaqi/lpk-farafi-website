@@ -3,7 +3,7 @@
   // ---------------------------------------------------
   // GANTI INI DENGAN EMAIL PENERIMA ANDA
   // ---------------------------------------------------
-  $receiving_email_address = 'metroteknologiinformatika@gmail.com';
+  $receiving_email_address = 'usamahdhaqi@gmail.com';
   // ---------------------------------------------------
 
   // Ambil data dari formulir
